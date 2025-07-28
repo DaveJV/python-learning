@@ -3,7 +3,7 @@ This repository tracks my progress learning Python.
 ## Projects
 
 [ ] 00 - Caesar Cipher
-
+[ ] 01 - Vig Cipher
 ## Notes
 
 Each folder contains a standalone project with an associated .py file.

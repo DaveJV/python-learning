@@ -2,7 +2,7 @@ This repository tracks my progress learning Python.
 
 ## Projects
 
-[ ] 00 - Ceasar Cipher
+[ ] 00 - Caesar Cipher
 
 ## Notes
 

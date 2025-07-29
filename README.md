@@ -4,6 +4,7 @@ This repository tracks my progress learning Python.
 
 [ ] 00 - Caesar Cipher
 [ ] 01 - Vig Cipher
+[ ] 02 - Luhn Algorithm
 ## Notes
 
 Each folder contains a standalone project with an associated .py file.

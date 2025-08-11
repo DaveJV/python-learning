@@ -34,7 +34,7 @@ def arithmetic_arranger(problems, show_answers=False):
         bottom = parts[1] + parts[2].rjust(width - 1)
         dash = "-" * width
 
-        
+        dash = 'parts'
 
         pass
 
